@@ -34,15 +34,20 @@
 강민선 (한림대학교 콘텐츠 IT)
 손경민 (한림대학교 콘텐츠 IT)
 
+
 📂 프로젝트 산출물
 
 📌 헬스케어 앱 
 📄 헬스케어 앱 기획안 보기
 [헬스 케어 어플 기획안.pdf](https://github.com/user-attachments/files/19388683/default.pdf)
+![image](https://github.com/user-attachments/assets/87a6f0eb-b5fe-4fce-b8e1-5801d462522c)
+![image](https://github.com/user-attachments/assets/5a117281-576f-48c1-8778-79e6454289d6)
+
 
 정밀의료공모전 제출 PPT
 [Uploading 힐앤핏(Heal&Fit)의 사본 (1).pdf…]()
 
+![image](https://github.com/user-attachments/assets/f0066fef-b717-41ac-9df4-b89ed2a306e5)
 
 
 📌 헬스케어 어플의 프로토타입 , Figma UI/UX 디자인
